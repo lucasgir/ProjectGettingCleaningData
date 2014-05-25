@@ -1,6 +1,6 @@
 ProjectGettingCleaningData
 ==========================
-##How the script works
+##What the script do
 * loads the data from both training and test sets and merge them together with rbind function
     * measure (X_test.txt, X_train.txt)
     * activities (y_test.txt, y_train.txt) and activities labels (activity_labels.txt)
