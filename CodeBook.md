@@ -11,6 +11,6 @@ The tidy dataset contains two main part :
     * Sitting
     * Standing
     * Laying
-*Measures
+* Measures
     * mean
     * standard deviation
